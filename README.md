@@ -84,4 +84,4 @@ In the project directory, you can run the following scripts:
 - `npm run db:push`: Pushes the Drizzle ORM schema to the database.
 - `npm run db:studio`: Launches Drizzle ORM Studio for database management.
 
-  ![Expense Tracker Screenshot](./public/dashboard.PNG)
+  ![Expense Tracker Screenshot](./public/dashboard.png)
