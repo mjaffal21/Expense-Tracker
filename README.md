@@ -46,13 +46,13 @@ To get a local copy of the project up and running, follow these steps:
 
 4. **Setup Environmental Variables:**
 
-   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_publishable_key
-   CLERK_SECRET_KEY=your_secret_key
-   NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-   NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-   NEXT_PUBLIC_CLERK_SIGN_IN_FORCE_REDIRECT_URL=/
-   NEXT_PUBLIC_CLERK_SIGN_UP_FORCE_REDIRECT_URL=/
-   NEXT_PUBLIC_DRIZZLE_DATABASE_URL=your_database_url
+   - NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_publishable_key
+   - CLERK_SECRET_KEY=your_secret_key
+   - NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+   - NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+   - NEXT_PUBLIC_CLERK_SIGN_IN_FORCE_REDIRECT_URL=/
+   - NEXT_PUBLIC_CLERK_SIGN_UP_FORCE_REDIRECT_URL=/
+   - NEXT_PUBLIC_DRIZZLE_DATABASE_URL=your_database_url
 
 5. **Run the Deployment Server:**
 
