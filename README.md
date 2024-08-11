@@ -2,6 +2,8 @@
 
 **Expense Tracker** is a web application that allows users to manage their budgets and track expenses efficiently. The app provides an intuitive interface for creating, editing, deleting, and viewing budgets, as well as adding and deleting expenses.
 
+**Demo**: https://expense-tracker-nich.onrender.com
+
 ## Table of Contents
 
 - [Expense Tracker](#expense-tracker)
