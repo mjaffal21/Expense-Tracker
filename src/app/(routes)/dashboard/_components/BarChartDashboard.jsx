@@ -20,7 +20,7 @@ const BarChartDashboard = ({ budgetList }) => {
           <Tooltip />
           <Legend />
           <Bar dataKey="totalSpent" stackId="a" fill="#4845d2" />
-          <Bar dataKey="Amount" stackId="a" fill="#c3c2ff" />
+          <Bar dataKey="Amount" stackId="b" fill="#c3c2ff" />
         </BarChart>
       </ResponsiveContainer>
     </div>
