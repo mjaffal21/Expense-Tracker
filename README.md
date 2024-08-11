@@ -35,13 +35,14 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the Repository:**
 
    git clone https://github.com/mjaffal21/expense-tracker.git
+   
    cd expense-tracker
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
 
    npm install
 
-3. **Setup Environmental Variables:**
+4. **Setup Environmental Variables:**
 
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_publishable_key
    CLERK_SECRET_KEY=your_secret_key
@@ -51,15 +52,15 @@ To get a local copy of the project up and running, follow these steps:
    NEXT_PUBLIC_CLERK_SIGN_UP_FORCE_REDIRECT_URL=/
    NEXT_PUBLIC_DRIZZLE_DATABASE_URL=your_database_url
 
-4. **Run the Deployment Server:**
+5. **Run the Deployment Server:**
 
    npm run dev
 
-5. **Build for Production:**
+6. **Build for Production:**
 
    npm run build
 
-6. **Start the Production Server:**
+7. **Start the Production Server:**
 
    npm start
 
